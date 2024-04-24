@@ -3,3 +3,6 @@
 
 # git
 git push origin main 
+
+# nueva rama creada en local
+git push --set-upstream origin dev001
