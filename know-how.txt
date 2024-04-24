@@ -1,2 +1,5 @@
 # convention git commits
 >> (fix):create new branch
+
+# git
+git push origin main 
