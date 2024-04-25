@@ -6,3 +6,10 @@ git push origin main
 
 # nueva rama creada en local
 git push --set-upstream origin dev001
+
+# superusuario
+python manage.py createsuperuser --username admin --email admin@example.com
+
+
+# httpie
+http -a admin http://127.0.0.1:8000/users/
